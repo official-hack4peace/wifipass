@@ -1,0 +1,9 @@
+REM Created by: Mrx (hack4peace)
+DELAY 500
+GUI r
+DELAY 200
+STRING cmd
+ENTER
+DELAY 300
+STRING netsh wlan show profiles
+ENTER
